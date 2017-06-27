@@ -1,13 +1,13 @@
 {
-  "name": "atom-desert-syntax",
+  "name": "atom-perfect-desert",
   "theme": "syntax",
-  "version": "0.3.0",
-  "description": "Syntax colors converted from Desert vim theme",
+  "version": "0.1.0",
+  "description": "Ported Desert vim theme with slight changes",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/kosmodromov/atom-desert-syntax",
+  "repository": "https://github.com/gistart/atom-desert-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
